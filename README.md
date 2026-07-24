@@ -8,7 +8,7 @@ This model, which is by no means binding to the project or its users, was chosen
 
 ---
 
-UBIO is implemented as a Node.js monolith, configrable via environment variables, with mongo as its database.
+UBIO is implemented as a Node.js monolith, configurable via environment variables, with mongo as its database.
 
 ## Quick start
 
