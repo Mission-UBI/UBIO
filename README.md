@@ -1,10 +1,14 @@
 # UBIO
 
-A web service template for an institution to run a grassroots **U**niversal **B**asic **I**ncome program over Bitcoin. Donations accumulate in one wallet; on a fixed interval the entire balance is split evenly among manually-verified recipients.
+UBIO ("you-bee-oh") is an open software platform that any community may implement to automate and scale their mutual aid efforts. Such programs may come to constitute grassroots guaranteed income programs which may augment, compensate for the lack of, or serve as the proving grounds for state sponsored universal basic income (UBI).
 
-Node.js + Express + MongoDB, with a build-free vanilla UI.
+As implemented, UBIO works by allowing communities to manually admit recipients, among whom donations sent to a publically visible Bitcoin wallet address will be automatically and evenly distributed.
+
+This model, which is by no means binding to the project or its users, was chosen to minimize friction in deployment, to aid in financial transparency, to prevent Sybil attacks, and to allow for independent modification and experimentation.
 
 ---
+
+UBIO is implemented as a Node.js monolith, configrable via environment variables, with mongo as its database.
 
 ## Quick start
 
