@@ -1,6 +1,6 @@
 # UBIO
 
-UBIO ("you-bee-oh") is an open software platform that any community may implement to automate and scale their mutual aid efforts. Such programs may come to constitute grassroots guaranteed income programs which may augment, compensate for the lack of, or serve as the proving grounds for state sponsored universal basic income (UBI).
+UBIO ("you-bee-oh") is an open software platform that any community may implement to automate and scale their public aid efforts. Such programs may come to constitute grassroots guaranteed income programs which may augment, compensate for the lack of, or serve as the proving grounds for state sponsored universal basic income (UBI).
 
 As implemented, UBIO works by allowing communities to manually admit recipients, among whom donations sent to a publically visible Bitcoin wallet address will be automatically and evenly distributed.
 
